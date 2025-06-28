@@ -1,0 +1,10 @@
+services:
+  - type: web
+    name: mentorship-app
+    env: python
+    buildCommand: pip install -r requirements.txt
+    startCommand: gunicorn app:app
+    workingDir: backend
+    envVars:
+      - key: MONGO_URI
+        value: mongodb+srv://vishakhaprajapati0502:eO9B5FgM9bbmsOng@cluster0.erqciks.mongodb.net/
