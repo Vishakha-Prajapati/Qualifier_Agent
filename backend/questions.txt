@@ -1,0 +1,9 @@
+Q1: Which phrase best articulates the concept of “data integrity” in a technical presentation?
+ - a) Data is always available
+ - b) Data remains accurates and unaltered throughout its lifecycle
+ - c) Data is stored in the cloud
+ - d) Data can be accessed by anyone
+ - a) Use as many acronyms as possible
+ - b) Speak quickly to cover more material
+ - c) Use simple analogies and check for understanding
+ - d) Avoid answering questions
